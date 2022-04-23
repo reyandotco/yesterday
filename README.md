@@ -3,6 +3,9 @@
 
 Sample text.
 
-![Yesterday Screenshot](img/yesterday.png "Yesterday in Light Form")
+<figure>
+	<img src="img/yesterday.png" alt="Yesterday Screenshot" />
+	<figcaption>Yesterday in Light Form</figcaption>
+</figure>
 
 ![Yesterday Night Screenshot](img/yesterday-night.png "Yesterday in Dark Form")
